@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShabinaP
 - 👀 I’m interested in front end web development with maybe some backend!
 - 🌱 I’m currently learning Javascript! 
-- 💞️ I’m looking to collaborate on projects aimed at helping those less fortunate.
+- 💞️ I’m looking to collaborate on social good projects.
 - 📫 You can reach me via email on: shabina-patel@hotmail.com :)
 
 <!---
