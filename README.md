@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShabinaP
+- 👋 Hi, I’m Shabina
 - I am currently a student at Manchester Codes Bootcamp.
 
 <!---
